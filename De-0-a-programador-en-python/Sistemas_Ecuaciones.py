@@ -18,12 +18,12 @@ Ejemplo a solucionar
 import numpy as np
 
 def metodo_cramer(matriz):    
-    a11 = matriz[0][0]#3
-    a12 = matriz[0][1]#4
-    c1 = matriz[0][2] #40
-    a21 = matriz[1][0]#5
-    a22 = matriz[1][1]#2
-    c2 = matriz[1][2]#34    
+    a11 = matriz[0][0]
+    a12 = matriz[0][1]
+    c1 = matriz[0][2] 
+    a21 = matriz[1][0]
+    a22 = matriz[1][1]
+    c2 = matriz[1][2]    
     x1 = ( (c1*a22) - (c2*a12) ) / ( (a11*a22) - (a12*a21) )
     x2 = ( (c2*a11) - (c1*a21) ) / ( (a11*a22) - (a12*a21) )
     return x1, x2
