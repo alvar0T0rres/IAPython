@@ -1,3 +1,4 @@
+# Author: Torres Velasco Alvaro Eduardo
 # Introducir dos numeros naturales por teclado. Imprimir los numeros naturales que hay entre ambos numeros empezando por el mas pequeno. 
 
 num1 = int(input('Ingrese un numero: '))
