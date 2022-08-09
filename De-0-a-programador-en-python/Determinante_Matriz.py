@@ -1,3 +1,4 @@
+# Author: Torres Velasco Alvaro Eduardo
 '''
 *** Enunciado ***
 Escriba, y ejecute un programa para calcular el determinante de una matriz 3x3 mediante la regla de Sarrus.
