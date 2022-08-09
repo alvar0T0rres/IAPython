@@ -1,3 +1,4 @@
+# Author: Torres Velasco Alvaro Eduardo
 '''
 *** Enunciado ***
 Diseña un programa que lea una matriz y muestre su transpuesta.
