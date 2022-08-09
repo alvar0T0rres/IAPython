@@ -1,3 +1,4 @@
+# Author: Torres Velasco Alvaro Eduardo
 # Introducir tantas frases por teclado como deseemos y contarlas
 
 respuesta = 'S'
