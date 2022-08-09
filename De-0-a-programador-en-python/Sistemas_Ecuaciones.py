@@ -1,3 +1,4 @@
+# Author: Torres Velasco Alvaro Eduardo
 '''
 *** Enunciado ***
 Realizar un programa que resuelva un sistema de ecuaciones utilizando el metodo de Cramer.
