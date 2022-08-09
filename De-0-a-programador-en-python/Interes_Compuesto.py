@@ -1,3 +1,4 @@
+# Author: Torres Velasco Alvaro Eduardo
 '''
 *** Enunciado ***
 Se coloca un capital, a un interés que oscila entre 0 y 100, durante cierta cantidad de años y se desea saber en cuanto se 
