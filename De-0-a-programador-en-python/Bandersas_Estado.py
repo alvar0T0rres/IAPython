@@ -1,3 +1,4 @@
+# Author: Torres Velasco Alvaro Eduardo
 # Imprimir 10 veces de una forma alternativa 'Hola' y 'Adios'
 
 bandera = True
