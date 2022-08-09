@@ -1,3 +1,4 @@
+# Author: Torres Velasco Alvaro Eduardo
 # Simular un reloj digital con el uso de bucles anidados
 import time
 
