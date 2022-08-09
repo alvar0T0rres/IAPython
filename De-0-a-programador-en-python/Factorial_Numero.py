@@ -1,3 +1,4 @@
+# Author: Torres Velasco Alvaro Eduardo
 '''
 *** Enunciad ***
 Desarrollar un programa que genere el factorial de un número. 
