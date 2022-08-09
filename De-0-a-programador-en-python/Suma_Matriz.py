@@ -1,3 +1,4 @@
+# Author: Torres Velasco Alvaro Eduardo
 '''
 *** Enunciado ***
 Diseñar un programa que sume dos matrices. Recuerda que solo es posible sumar matrices con la misma dimensión
