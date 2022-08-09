@@ -1,3 +1,4 @@
+# Author: Torres Velasco Alvaro Eduardo
 '''
 *** Enunciado ***
 Crear un Algoritmo que permita hallar la solución a una ecuación de segundo grado, de la forma:
