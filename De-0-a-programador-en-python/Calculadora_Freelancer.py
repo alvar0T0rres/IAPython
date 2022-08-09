@@ -1,3 +1,4 @@
+# Author: Torres Velasco Alvaro Eduardo
 '''
 *** Enunciado ***
 Un Freelancer desea saber cuánto puede cobrar por su trabajo semanal y mensualmente, para ello solo necesita 
