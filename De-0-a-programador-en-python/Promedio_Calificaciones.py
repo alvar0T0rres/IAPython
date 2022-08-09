@@ -1,3 +1,4 @@
+# Author: Torres Velasco Alvaro Eduardo
 '''
 *** Enunciado ***
 Imprime en pantalla una tabla con los nombres de los estudiantes y su promedio de notas.
