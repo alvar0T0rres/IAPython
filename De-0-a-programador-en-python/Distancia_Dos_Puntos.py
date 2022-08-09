@@ -1,3 +1,4 @@
+# Author: Torres Velasco Alvaro Eduardo
 '''
 *** Enunciado ***
 Se tiene los puntos A y B en el cuadrante positivo del plano cartesiano, elabore el algoritmo que 
