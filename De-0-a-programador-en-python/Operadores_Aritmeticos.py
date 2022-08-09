@@ -3,6 +3,7 @@
 # 3) Programa que solicite al usuario los datos para calcular el area de un Circulo
 # 4) Programa que solicite al usuario los datos para llevar Grados Fahrenheit a Grados Celcius
 # 5) Sumar 4 Tramas de datos(String) que contengan el precio de un producto.
+# Author: Torres Velasco Alvaro Eduardo
 import math 
 
 # *** Menu ***
