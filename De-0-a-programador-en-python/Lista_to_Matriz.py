@@ -1,3 +1,4 @@
+# Author: Torres Velasco Alvaro Eduardo
 '''
 *** Enunciado ***
 La función debe permitir transformar los elementos de una lista simple en elementos de una matriz agrupándolos 
